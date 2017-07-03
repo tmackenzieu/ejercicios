@@ -40,3 +40,10 @@ array.each do |x|
   x += 10
   print "#{x}"
 end
+
+#Times
+
+	10.times { print "¡Te Amo!!! , "}
+
+# Este bloque muestra el número de cada elemento multiplicado por 5.
+	[1, 2, 3, 4, 5].each { |i| puts i * 5 }
